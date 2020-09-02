@@ -1,2 +1,4 @@
 # tic_tac_toe
-Tic Tac Toe Game
+
+Basic Tic Tac Toe Game
+Made with HTML,CSS and JS
